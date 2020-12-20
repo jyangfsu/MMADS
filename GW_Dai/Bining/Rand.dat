@@ -1,0 +1,15 @@
+lhstitl TEST #flow
+lhsout LHS_1.out
+lhsmsg LHS_2.out
+lhsseed 933090936
+lhsobs 100
+lhsrpts data corr hist
+dataset:
+a NORMAL 2.0000 0.4000
+b UNIFORM 0.2000 0.5000
+hk LOGNORMAL-N 2.9000 0.5000
+hk1 LOGNORMAL-N 2.6000 0.3000
+hk2 LOGNORMAL-N 3.2000 0.3000
+f1 NORMAL 3.5000 0.7500
+f2 NORMAL 2.5000 0.3000
+r NORMAL 0.3000 0.0500
