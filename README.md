@@ -1,4 +1,4 @@
-# Multi-model difference-based sensitivity (MMDS) method  
+# Multi-model absolute difference-based sensitivity (MMADS) method  
 
 The respiratory provides the codes of the multi-model difference-based sensitivity (MMDS) method. This respiratory has been used to generate the results in: 
 
