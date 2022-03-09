@@ -2,7 +2,7 @@
 
 The respiratory provides the codes of the multi-model absolute difference-based sensitivity (MMADS) method. This respiratory has been used to generate the results in: 
 
-Yang J. & Ye M. 2021. A new multi-model absolute difference-based sensitivity (MMADS) method to screen non-influential process under process model and parametric uncertainty, Journal of Hydrology, Major Revision.
+Yang, J., Ye, M., 2022. A new multi-model absolute difference-based sensitivity (MMADS) analysis method to screen non-influential processes under process model and parametric uncertainty. Journal of Hydrology, 608: 127609. DOI:https://doi.org/10.1016/j.jhydrol.2022.127609
 
 
 *Software needed in the workflow*: Python with [Anaconda](https://www.anaconda.com)
